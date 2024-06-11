@@ -217,7 +217,7 @@ export const cardsList = [
     type: ItemType.PRTeam,
   },
   {
-    name: 'Anonymous transaction ban',
+    name: 'Anonymous transactions ban',
     unavailable: false,
     type: ItemType.PRTeam,
   },
@@ -267,7 +267,7 @@ export const cardsList = [
     type: ItemType.Legal,
   },
   {
-    name: 'SEC transparency',
+    name: 'SEC transparancy',
     unavailable: false,
     type: ItemType.Legal,
   },
@@ -439,6 +439,16 @@ export const cardsList = [
   {
     name: 'Blockchain Life 2024',
     unavailable: true,
+    type: ItemType.Specials,
+  },
+  {
+    name: 'Premarket Launch',
+    unavailable: false,
+    type: ItemType.Specials,
+  },
+  {
+    name: 'Hamster Kombat merch',
+    unavailable: false,
     type: ItemType.Specials,
   },
 ]
