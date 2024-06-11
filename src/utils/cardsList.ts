@@ -62,6 +62,11 @@ export const cardsList = [
     type: ItemType.Markets,
   },
   {
+    name: 'Margin trading x30',
+    unavailable: false,
+    type: ItemType.Markets,
+  },
+  {
     name: 'Margin trading x50',
     unavailable: false,
     type: ItemType.Markets,
